@@ -1,5 +1,5 @@
 # Biswajit Karmakar
-Hi,  I am Biswajit Karmakar. Welcome to my page.  I am  a research staff in Particle Physics Group of Prof. Janusz Gluza   at Institute of  Physics ,Uniwersytet Śląski w Katowicach  Poland. I completed my Ph.D. from the Indian Institute of Technology  Guwahati. Then I was a postdoctoral fellow at the Physical Research Laboratory  Ahmedabad, India, and at the Institute of High Energy Physics, Beijing, China. Before moving to Katowice, I was a researcher at the Indian Institute of Technology Hyderabad.  
+Hi, welcome to my page.  I am  a research staff in Particle Physics Group of Prof. Janusz Gluza   at Institute of  Physics ,Uniwersytet Śląski w Katowicach  Poland. I completed my Ph.D. from the Indian Institute of Technology  Guwahati. Then I was a postdoctoral fellow at the Physical Research Laboratory  Ahmedabad, India, and at the Institute of High Energy Physics, Beijing, China. Before moving to Katowice, I was a researcher at the Indian Institute of Technology Hyderabad.  
 
 High energy physics phenomenology is my broad area of research with particular emphasis on neutrino physics, dark matter, cosmology, etc. 
 
