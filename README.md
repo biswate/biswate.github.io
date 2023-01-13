@@ -24,9 +24,10 @@ Early Universe Cosmology etc.
 # Publications 
 Detailed list of my publications can obtained from [inspirehep](https://inspirehep.net/authors/1503342).  Below I have listed few of them : 
 
+14. **Common origin of θ13 and dark matter within the flavor symmetric scoto-seesaw framework**; Joy Ganguly, Janusz Gluza and Biswajit Karmakar; .[JHEP 11 (2022) 074].(https://link.springer.com/article/10.1007/JHEP11(2022)074), arXiv:2209.08610. 
 13. **Discrete Flavor Symmetries and Lepton Masses and Mixings**; Garv Chauhan, P. S. Bhupal Dev, Bartosz Dziewit, Wojciech Flieger, Janusz Gluza, Krzysztof     Grzanka,  **Biswajit Karmakar**, Joris Vergeest, Szymon Zieba; 2022 Snowmass Summer Study; arXiv:2203.08105
-12. **Flavored Leptogenesis and Neutrino Mass with `A_4` Symmetry**.  Argyajit Dutta, Biswajit Karmakar and Arunansu Sil;  JHEP 12 (2021) 051 ; arXiv:2106.06773
-11. Planck scale origin of nonzero θ13 and super-WIMP dark matter; Debasish Borah, Biswajit Karmakar and Dibyendu Nanda; Phys.Rev.D, 100 (2019) 5,       
+12. **Flavored Leptogenesis and Neutrino Mass with A4 Symmetry**.  Argyajit Dutta, Biswajit Karmakar and Arunansu Sil;  JHEP 12 (2021) 051 ; arXiv:2106.06773
+11. **Planck scale origin of nonzero θ13 and super-WIMP dark matter; Debasish Borah, Biswajit Karmakar and Dibyendu Nanda**; Phys.Rev.D, 100 (2019) 5,       
     055014, arXiv:1906.02756
 10. Consequences of μ-τ reflection symmetry for 3 + 1 neutrino mixing; Kaustav Chakraborty, Srubabati Goswami and Biswajit Karmakar, Phys.Rev.D, 100         (2019) 5, 055014, arXiv:1904.10184
 09. Linear Seesaw for Dirac Neutrinos with A4 Flavour Symmetry; Debasish Borah, Biswajit Karmakar; Phys. Lett. B ,12-006 (2018), arXiv:1806.10685
