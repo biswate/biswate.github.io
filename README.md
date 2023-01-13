@@ -1,5 +1,5 @@
 # Biswajit Karmakar
-Hi, welcome to my page.  I am  a researcher in Theoritical High Energy Physics   at Institute of  Physics ,Uniwersytet Śląski w Katowicach  Poland. I completed my Ph.D. from the Indian Institute of Technology  Guwahati. Then I was a postdoctoral fellow at the Physical Research Laboratory  Ahmedabad, India, and at the Institute of High Energy Physics, Beijing, China. Before moving to Katowice, I was a researcher at the Indian Institute of Technology Hyderabad.  
+Hi, welcome to my page.  I am  a researcher in Theoritical High Energy Physics   at Institute of  Physics, Uniwersytet Śląski w Katowicach,  Poland. I completed my Ph.D. from the Indian Institute of Technology  Guwahati. Then I was a postdoctoral fellow at the Physical Research Laboratory  Ahmedabad, India, and at the Institute of High Energy Physics, Beijing, China. Before moving to Katowice, I was a researcher at the Indian Institute of Technology Hyderabad.  
 
 High energy physics phenomenology is my broad area of research with particular emphasis on neutrino physics, dark matter, cosmology, etc. 
 
@@ -24,7 +24,7 @@ Early Universe Cosmology etc.
 # Publications 
 Detailed list of my publications can obtained from [inspirehep](https://inspirehep.net/authors/1503342).  Below I have listed few of them : 
 
-13. Discrete Flavor Symmetries and Lepton Masses and Mixings; Garv Chauhan, P. S. Bhupal Dev, Bartosz Dziewit, Wojciech Flieger, Janusz Gluza, Krzysztof     Grzanka,  Biswajit Karmakar, Joris Vergeest, Szymon Zieba; 2022 Snowmass Summer Study; arXiv:2203.08105
+13. Discrete Flavor Symmetries and Lepton Masses and Mixings; Garv Chauhan, P. S. Bhupal Dev, Bartosz Dziewit, Wojciech Flieger, Janusz Gluza, Krzysztof     Grzanka,  **Biswajit Karmakar**, Joris Vergeest, Szymon Zieba; 2022 Snowmass Summer Study; arXiv:2203.08105
 12. Flavored Leptogenesis and Neutrino Mass with A4 Symmetry.  Argyajit Dutta, Biswajit Karmakar and Arunansu Sil;  JHEP 12 (2021) 051 ; arXiv:2106.06773
 11. Planck scale origin of nonzero θ13 and super-WIMP dark matter; Debasish Borah, Biswajit Karmakar and Dibyendu Nanda; Phys.Rev.D, 100 (2019) 5,       
     055014, arXiv:1906.02756
