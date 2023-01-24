@@ -2,12 +2,12 @@
 
 Hi! My name is Biswajit Karmakar.   
 
-I am  a researcher in Theoritical High Energy Physics   at Institute of  Physics, University of Silesia in Katowice,  Poland. I completed my [PhD](http://gyan.iitg.ernet.in/handle/123456789/917) from the [Indian Institute of Technology  Guwahati](https://www.iitg.ac.in/). Since March 2022, I am a coporation associate (COAS) member of  CERN, Switzerland. 
+I am  a researcher in Theoritical High Energy Physics   at [Institute of  Physics](https://czastki.us.edu.pl/), [University of Silesia in Katowice](https://us.edu.pl/),  Poland.  Since March 2022, I am a coporation associate (COAS) member of  [CERN](https://www.home.cern/), Switzerland. 
 
-Previously, for my post-docs, I have spent my times at the [Physical Research Laboratory](https://www.prl.res.in/prl-eng/)  Ahmedabad, India; [Institute of High Energy Physics](http://english.ihep.cas.cn/), Beijing, China and  [Indian Institute of Technology Hyderabad](https://iith.ac.in/), India respectively.  
+Previously, I have completed my [PhD](http://gyan.iitg.ernet.in/handle/123456789/917) from the [Indian Institute of Technology  Guwahati](https://www.iitg.ac.in/). For my post-docs, I have spent my times at the [Physical Research Laboratory](https://www.prl.res.in/prl-eng/)  Ahmedabad, India; [Institute of High Energy Physics](http://english.ihep.cas.cn/), Beijing, China and  [Indian Institute of Technology Hyderabad](https://iith.ac.in/), India respectively.  
 
 ## Research Areas
-High energy physics phenomenology is my broad area of research with particular emphasis on neutrino physics, extended scalar sector, matter-antimatter, dark matter, cosmology including various non-standard models, collider physics. 
+**Theoritical high energy physics** is my broad area of research with particular emphasis on **neutrino physics, extended scalar sector, matter-antimatter, dark matter, cosmology** including various **non-standard models, collider physics**. 
 
 ## Publications 
 Detailed list of my publications can obtained from [inspirehep](https://inspirehep.net/authors/1503342). 
