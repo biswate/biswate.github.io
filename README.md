@@ -2,7 +2,7 @@
 
 Hi! My name is Biswajit Karmakar.   
 
-I am  a researcher in Theoritical High Energy Physics   at Institute of  Physics, University of Silesia in Katowice,  Poland. I completed my [PhD](http://gyan.iitg.ernet.in/handle/123456789/917) from the Indian Institute of Technology  Guwahati. Then I was a postdoctoral fellow at the Physical Research Laboratory  Ahmedabad, India, and at the Institute of High Energy Physics, Beijing, China. Before moving to Katowice, I was a researcher at the Indian Institute of Technology Hyderabad.  
+I am  a researcher in Theoritical High Energy Physics   at Institute of  Physics, University of Silesia in Katowice,  Poland. I completed my [PhD](http://gyan.iitg.ernet.in/handle/123456789/917) from the Indian Institute of Technology  Guwahati. For my post-docs, I have spent my times at the Physical Research Laboratory  Ahmedabad, India; Institute of High Energy Physics, Beijing, China and  Indian Institute of Technology Hyderabad, India respectively.  
 
 High energy physics phenomenology is my broad area of research with particular emphasis on neutrino physics, dark matter, cosmology, etc. 
 
