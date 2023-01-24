@@ -14,7 +14,7 @@ Previously, I completed my [PhD](http://gyan.iitg.ernet.in/handle/123456789/917)
 
 
 ## Publications 
-Detailed list of my publications can obtained from [inspirehep](https://inspirehep.net/authors/1503342). 
+So far I have 13 regular articles and 1  review article  in reputated physics journals.  Detailed list of my publications can obtained from [inspirehep](https://inspirehep.net/authors/1503342). 
 
 ## Contact 
 **E-mail**: biswajit.karmakar@us.edu.pl
