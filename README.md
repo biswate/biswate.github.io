@@ -7,7 +7,7 @@ I am  a researcher in Theoritical High Energy Physics   at Institute of  Physics
 Previously, for my post-docs, I have spent my times at the [Physical Research Laboratory](https://www.prl.res.in/prl-eng/)  Ahmedabad, India; [Institute of High Energy Physics](http://english.ihep.cas.cn/), Beijing, China and  [Indian Institute of Technology Hyderabad](https://iith.ac.in/), India respectively.  
 
 ## Research Areas
-High energy physics phenomenology is my broad area of research with particular emphasis on neutrino physics, extended scalar sector, matter-antimatter, dark matter, cosmology including various non-standard models, collider physics. 
+**Theoritical high energy physics** is my broad area of research with particular emphasis on **neutrino physics, extended scalar sector, matter-antimatter, dark matter, cosmology** including various **non-standard models, collider physics.** 
 
 ## Publications 
 Detailed list of my publications can obtained from [inspirehep](https://inspirehep.net/authors/1503342). 
